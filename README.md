@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Zaw Lwin Tun<br>🌟 Passionate Junior Developer | 💻 Full Stack Enthusiast<br><br>I'm a highly motivated junior developer on a quest to turn my passion for coding into exceptional software solutions. My journey in the world of technology has just begun, and I'm excited to learn, grow, and contribute to meaningful projects.</p>
+<p align="left">👋 Hello, I'm Zaw Lwin Tun<br>🌟 Software Engineer | 💻 Full Stack Enthusiast<br><br>I'm a highly motivated software engineer on a quest to turn my passion for coding into exceptional software solutions. My journey in the world of technology has just begun, and I'm excited to learn, grow, and contribute to meaningful projects.</p>
 
 ###
 
